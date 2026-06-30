@@ -1,0 +1,19 @@
+﻿# Node
+node_modules/
+.next/
+out/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Keys & environment
+.env*.local
+gcp-key.json
+gcp-key-*.json
+
+# Temp/log files
+*.log
