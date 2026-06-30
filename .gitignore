@@ -1,4 +1,4 @@
-﻿# Node
+# Node
 node_modules/
 .next/
 out/
@@ -17,3 +17,8 @@ gcp-key-*.json
 
 # Temp/log files
 *.log
+
+# Deployment files (ignore locally only, kept off GitHub)
+DEPLOYMENT_GUIDE.md
+render.yaml
+
