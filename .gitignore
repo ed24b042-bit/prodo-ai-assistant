@@ -20,5 +20,4 @@ gcp-key-*.json
 
 # Deployment files (ignore locally only, kept off GitHub)
 DEPLOYMENT_GUIDE.md
-render.yaml
 
