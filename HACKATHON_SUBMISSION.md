@@ -5,9 +5,7 @@
 ## 1. Title Page
 * **Project Name**: ProDo (The Last-Minute Life Saver)
 * **Tagline**: The conversational, context-aware AI executive assistant that proactively keeps you ahead of your deadlines.
-* **Team Members**: [Insert Names Here]
-* **Submission Date**: [Insert Date Here]
-
+* 
 ---
 
 ## 2. Problem Statement Selected: The Last-Minute Life Saver
